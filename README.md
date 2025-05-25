@@ -1,6 +1,6 @@
 # Lab 1: Data Visualization, Data Preprocessing, and Statistical Analysis Using Python in Jupyter Notebook
 ## Student Information
-**Name:** Vamshidhar Reddy Jonnalagadda
+**Name:** Swarna Anjani Devershetty
 **Course Title:** MSCS 634 - Data Science
 **Lab Title:** Lab 1 - Data Exploration and Preparation
 ---
